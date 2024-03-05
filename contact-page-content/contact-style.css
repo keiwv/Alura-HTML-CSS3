@@ -32,26 +32,38 @@ nav a:hover {
     color: #c78c19;
 }
 
-
-
-
-
-
-
-
-
-
-
-footer 
-{
+footer {
     text-align: center;
     background: url(../products-page-content/img-products/bg.jpg);
     padding: 40px;
 }
 
-.copyright 
-{
+.copyright {
     color: white;
     font-size: 13px;
     margin: 20px;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form 
+{
+    margin: 40px 0px;
+}
+form label
+{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+form input
+{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
 }
