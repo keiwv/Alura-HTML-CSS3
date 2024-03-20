@@ -123,6 +123,7 @@ nav a:hover {
 .imgDiferenciales {
     width: 50%;
     transition: 400ms;
+    box-shadow: 10px 10px 30px 15px #000000;
 }
 
 .imgDiferenciales:hover {
@@ -145,4 +146,12 @@ footer {
     color: white;
     font-size: 13px;
     margin: 20px;
+}
+
+
+
+
+@media screen and (max-width:480px)
+{
+    
 }
